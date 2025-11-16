@@ -21,9 +21,13 @@
 * Allowing others to get into the groove of tracking their lifts is something that would be very fulfilling for me!
 
 ## Try it out yourself!
+
+> UPDATE AS OF November 16nth, 2025 - RepetiSwole is no longer live anymore.
+> I decided to cancel the hosting subscription for now while I am in my senior year of University. Should be back up by the summer!
+
 Hosted on Railway, you can try out the application and register / log in to start or continue your lifting journey!
 
-[Try it out for free](https://repetiswole-production.up.railway.app/)
+Example within the folder directory, search up `example_usage`!
 
 ## Documentation
 To see more about the API's that are provided, please check out the `doc` folder within this repository! I try to keep it as updated as possible.
